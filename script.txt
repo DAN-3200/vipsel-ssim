@@ -1,0 +1,24 @@
+tarefa:
+   - "detecção de mudança de cenário"
+   - comparar as imagens utilizando, se possível, openCV
+   - vou pegar as imagens fornecidas da 1° tarefa
+   - Devo buscar a similiaridade ou a diferença??
+
+   # o que preciso saber?
+      - qual method openCV faz comparação de imagens
+   # Expectativa:
+      - apresentar os elementos distintos
+      - percentual de quão semelhates são
+   
+   # Trilha Lógica:
+      1° Aquisição das imagens; Com OpenCV 
+      2° Pré-processamento; formatar as imagens para a comparação 
+      3° Comparação das imagens; utilizando formulas 
+      
+      
+   Analise com Histograms?
+
+   Estudar:
+      [https://stackoverflow.com/questions/11541154/checking-images-for-similarity-with-opencv]
+      [https://blog.finxter.com/comparing-two-images-in-opencv-python-a-developers-guide/]
+      [https://pyimagesearch.com/2014/09/15/python-compare-two-images/]
